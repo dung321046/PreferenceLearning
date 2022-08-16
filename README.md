@@ -1,2 +1,2 @@
-# PreferenceLearningForSummarization-
-Preference learing focusing on summarization task
+# Preference Learning for Generated Summary
+
